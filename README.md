@@ -1,7 +1,2 @@
 # Replay Keystroke
 Automate software install on windows by recording keystrokes and replay it.
-
-FGOKK-1RTGOM5-FDZ09G-13NDFOD
-請複製下列註冊碼，貼入「註冊碼」下方空白處
-
-Izrb/rVyeV4RSGl7Dv/1ILHofrKmMT5v7zNn2Q2wQ07DI/hIKddzylergxjiJIqTAt/JcStJVeVcuMBvyz+l5LQFA0wKXmmr3XBOXYipfsrbxY7YX6K8RM0reC133RX6eZJxoc3dZytSit3k9Ga0Ta5+1aipbauHuawOpaD0ktTZ33neNr2bqrNTp2O4lEBEG7qn/zxeR4pzSIgAISMoWd2dHo0LYMDymqe06KqxlJeF/+T7SThvwhyRx7/I8qrzUky+o7/ZMP+3mh0aKpEROqrSrvyFEZMTvFGvkifI19QsGQDTJCM+osJaoq/0eg6WgkhtTQe10Aymzl/EEDjKyA==
